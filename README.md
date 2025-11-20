@@ -1,2 +1,5 @@
 # Lanchimba-Danny
-Código de la prueba
+Nombre: Lanchimba Danny
+Cédula: 1050149515
+Tema Asignado: Agnathans (Vertebrados sin mandíbulas)
+Ruta del Repositorio GitHub
